@@ -1,0 +1,14 @@
+log,features,malr,mlr,R2(log),R2,num_features
+Y,"Log_Tot_Mdcr_Pymt_Amt,current_year,Log_Tot_Mdcr_Alowd_Amt,Tot_HCPCS_Cds,Type_Anesthesia,Bene_Avg_Age,Log_Tot_Benes,Type_MedicalSpecialtyOther",0.40175534,0.03563728,0.80293192,0.59448469,8
+Y,"Log_Tot_Mdcr_Pymt_Amt,current_year,Log_Tot_Mdcr_Alowd_Amt,Tot_HCPCS_Cds,Type_Anesthesia,Bene_Avg_Age,Log_Tot_Benes,Type_MedicalSpecialtyOther,Type_OBGYN",0.40202281,0.03605709,0.8030828,0.58889784,9
+Y,"Log_Tot_Mdcr_Pymt_Amt,current_year,Log_Tot_Mdcr_Alowd_Amt,Tot_HCPCS_Cds,Type_Anesthesia,Bene_Avg_Age,Log_Tot_Benes,Type_MedicalSpecialtyOther,Type_OBGYN,Tot_Mdcr_Alowd_Amt",0.40144693,0.03646046,0.8033236,-10431384.27442887,10
+Y,"Log_Tot_Mdcr_Pymt_Amt,current_year,Log_Tot_Mdcr_Alowd_Amt,Tot_HCPCS_Cds,Type_Anesthesia,Bene_Avg_Age,Log_Tot_Benes,Type_MedicalSpecialtyOther,Type_OBGYN,Type_Cardiology,APP_Tot_Risk_2",0.40154706,0.03347363,0.80376648,0.58415655,11
+Y,"Log_Tot_Mdcr_Pymt_Amt,current_year,Log_Tot_Mdcr_Alowd_Amt,Tot_HCPCS_Cds,Type_Anesthesia,Bene_Avg_Age,Log_Tot_Benes,Type_MedicalSpecialtyOther,Type_OBGYN,Type_Cardiology,APP_Tot_Risk_2,Type_RehabTherapy,state_Territory",0.40181287,0.03487001,0.80397327,0.58738793,13
+N,Tot_Mdcr_Alowd_Amt,0.4466566,0.15249977,,0.80768331,1
+N,"Tot_Mdcr_Pymt_Amt,LabPathology_Tot_Risk_0,PharmacyNutrition_Tot_Risk_1",0.39780005,-0.014377,,0.81728458,3
+N,"Tot_Mdcr_Pymt_Amt,LabPathology_Tot_Risk_0,Type_APP,PharmacyNutrition_Tot_Risk_1,state_Territory",0.40937815,0.04103191,,0.81729183,5
+Y,"Log_Tot_Mdcr_Pymt_Amt,current_year,Log_Tot_Mdcr_Alowd_Amt,Tot_HCPCS_Cds,Type_Anesthesia,Bene_Avg_Age,Log_Tot_Benes,Type_MedicalSpecialtyOther,Type_OBGYN,Type_Cardiology,APP_Tot_Risk_2,Type_RehabTherapy,state_Territory,Tot_Mdcr_Alowd_Amt",0.40119931,0.03514416,0.80424607,-16209715.36988273,14
+Y,"Log_Tot_Mdcr_Pymt_Amt,current_year,Log_Tot_Mdcr_Alowd_Amt,Tot_HCPCS_Cds,Type_Anesthesia,Bene_Avg_Age,Log_Tot_Benes,Type_MedicalSpecialtyOther,Type_OBGYN,Type_Cardiology,APP_Tot_Risk_2,Type_RehabTherapy,state_Territory,Type_BehavioralHealth",0.40168343,0.03469027,0.80412596,0.59010924,14
+N,"Tot_Mdcr_Pymt_Amt,LabPathology_Tot_Risk_0,Type_APP,PharmacyNutrition_Tot_Risk_1,state_Territory,state_Military",0.40938342,0.04105759,,0.81729183,6
+N,"Tot_Mdcr_Pymt_Amt,LabPathology_Tot_Risk_0,Type_APP,PharmacyNutrition_Tot_Risk_1,state_Territory,state_Military,state_Unknown",0.40938,0.04107472,,0.81729182,7
+N,"Tot_Mdcr_Pymt_Amt,LabPathology_Tot_Risk_0,Type_APP,PharmacyNutrition_Tot_Risk_1,state_Territory,state_Military,state_Unknown,Ind_N",0.40937593,0.04114576,,0.81729182,8

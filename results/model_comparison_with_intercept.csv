@@ -1,0 +1,17 @@
+log,features,malr,mlr,R2(log),R2,num_features
+N,"Tot_Mdcr_Pymt_Amt,LabPathology_Tot_Risk_0,Cd_O",0.4227474,0.16926288,,0.81729584,3
+Y,"Log_Tot_Mdcr_Pymt_Amt,Log_Tot_Mdcr_Alowd_Amt,Tot_HCPCS_Cds",0.4042655,0.02063906,0.80069755,0.64755033,3
+N,"Tot_Mdcr_Pymt_Amt,LabPathology_Tot_Risk_0,Cd_O,state_West",0.42355805,0.16795566,,0.81730095,4
+Y,"Log_Tot_Mdcr_Pymt_Amt,Log_Tot_Mdcr_Alowd_Amt,Tot_HCPCS_Cds,Type_Anesthesia,Bene_Avg_Age",0.4010733,0.02875471,0.8021157,0.62817771,5
+Y,"Log_Tot_Mdcr_Pymt_Amt,Log_Tot_Mdcr_Alowd_Amt,Tot_HCPCS_Cds,Type_Anesthesia,Bene_Avg_Age,Log_Tot_Benes",0.40168058,0.033198,0.80266316,0.60691752,6
+Y,"Log_Tot_Mdcr_Pymt_Amt,Log_Tot_Mdcr_Alowd_Amt,Tot_HCPCS_Cds,Type_Anesthesia,Bene_Avg_Age,Log_Tot_Benes,Type_MedicalSpecialtyOther",0.40178772,0.0334333,0.80299958,0.59401694,7
+N,"Tot_Mdcr_Pymt_Amt,LabPathology_Tot_Risk_0,Cd_O,state_West,PrimaryCare_Tot_Risk_1",0.42766814,0.17409977,,0.81730081,5
+N,"Tot_Mdcr_Pymt_Amt,LabPathology_Tot_Risk_0,Cd_O,state_West,PrimaryCare_Tot_Risk_1,Type_AcuteCare",0.42915386,0.17515782,,0.81730261,6
+N,"Tot_Mdcr_Pymt_Amt,LabPathology_Tot_Risk_0,Cd_O,state_West,PrimaryCare_Tot_Risk_1,Type_AcuteCare,state_Territory,PharmacyNutrition_Tot_Risk_1",0.43476712,0.16974177,,0.81730245,8
+Y,"Log_Tot_Mdcr_Pymt_Amt,Log_Tot_Mdcr_Alowd_Amt,Tot_HCPCS_Cds,Type_Anesthesia,Bene_Avg_Age,Log_Tot_Benes,Type_MedicalSpecialtyOther,Type_OBGYN,Type_Cardiology,Tot_Mdcr_Alowd_Amt",0.40131492,0.03410858,0.80363862,-10597737.87770673,10
+Y,"Log_Tot_Mdcr_Pymt_Amt,Log_Tot_Mdcr_Alowd_Amt,Tot_HCPCS_Cds,Type_Anesthesia,Bene_Avg_Age,Log_Tot_Benes,Type_MedicalSpecialtyOther,Type_OBGYN,Type_Cardiology,APP_Tot_Risk_2,Type_RehabTherapy",0.4019978,0.03191229,0.80385325,0.58879722,11
+N,"Tot_Mdcr_Pymt_Amt,LabPathology_Tot_Risk_0,Cd_O,state_West,PrimaryCare_Tot_Risk_1,Type_AcuteCare,state_Territory,PharmacyNutrition_Tot_Risk_1,MedicalSpecialtyOther_Tot_Risk_1",0.43970249,0.16589948,,0.81730276,9
+Y,"Log_Tot_Mdcr_Pymt_Amt,Log_Tot_Mdcr_Alowd_Amt,Tot_HCPCS_Cds,Type_Anesthesia,Bene_Avg_Age,Log_Tot_Benes,Type_MedicalSpecialtyOther,Type_OBGYN,Type_Cardiology,APP_Tot_Risk_2,Type_RehabTherapy,state_Territory",0.40184056,0.03254464,0.80404209,0.58673263,12
+Y,"Log_Tot_Mdcr_Pymt_Amt,Log_Tot_Mdcr_Alowd_Amt,Tot_HCPCS_Cds,Type_Anesthesia,Bene_Avg_Age,Log_Tot_Benes,Type_MedicalSpecialtyOther,Type_OBGYN,Type_Cardiology,APP_Tot_Risk_2,Type_RehabTherapy,state_Territory,Type_BehavioralHealth",0.40171503,0.03222025,0.8041992,0.58935456,13
+Y,"Log_Tot_Mdcr_Pymt_Amt,Log_Tot_Mdcr_Alowd_Amt,Tot_HCPCS_Cds,Type_Anesthesia,Bene_Avg_Age,Log_Tot_Benes,Type_MedicalSpecialtyOther,Type_OBGYN,Type_Cardiology,APP_Tot_Risk_2,Type_RehabTherapy,state_Territory,Type_BehavioralHealth,PrimaryCare_Tot_Risk_2",0.4015842,0.03281089,0.80432916,0.59089439,14
+N,"Tot_Mdcr_Pymt_Amt,LabPathology_Tot_Risk_0,Cd_O,state_West,PrimaryCare_Tot_Risk_1,Type_AcuteCare,state_Territory,PharmacyNutrition_Tot_Risk_1,MedicalSpecialtyOther_Tot_Risk_1,PharmacyNutrition_Tot_Risk_0",0.43676252,0.16745095,,0.81730132,10
